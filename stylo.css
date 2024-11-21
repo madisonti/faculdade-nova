@@ -1,0 +1,104 @@
+body{
+margin: 5px;
+padding: 0px;
+width: 1200px;
+}
+
+.geral{
+width: 1170px;
+height: 1000px;
+background-color: aqua; 
+padding: 15px;
+border: black,3px solid;
+}
+
+ul{
+float: right;
+margin-top: 40px;
+margin-right:130px;
+width:250px;
+
+}
+
+li{
+width: 80px;
+display: block;
+display: inline-block;
+ 
+}
+
+a{
+border:solid 2px wheat;
+background-color:rgb(60, 190, 9);
+color: black;
+font-size: initial;
+font-family: Georgia, 'Times New Roman', Times, serif;
+border-radius: 10px;
+padding: 5px;
+}
+
+.imagem{
+margin: 10px;
+position: relative;
+left: 50px;
+}
+
+.foto{
+padding-top: 20px;
+align-items: center;
+position: relative;
+left: 50px;
+}
+
+.nome1{
+ width: 1000px;
+
+ padding: 5px;
+}
+.nome{
+width: 1000px;
+}
+
+#roda-pe{
+padding-left:10px;
+width:500px;
+position:relative;
+float:right;
+right:300px;
+}
+
+
+
+.caixaFormulario{
+ width:800px;
+ background-color:blueviolet;
+ text-align:center;
+ margin-left:200px;
+ margin-top:15PX;
+ height:550px;
+ padding:1px;
+ border:blue, solid, 10px;
+}
+
+input{
+width: 200px;
+height: 15px;
+border: 4px solid black;
+}
+.con{
+width: 90px;
+height: 80px;
+position: relative;
+left: 20px;
+}
+
+
+button{
+ margin-top: 30px;
+background-color:aqua;
+width:100px;
+border-radius:10px;
+border:solid 2px wheat;
+}
+
+
